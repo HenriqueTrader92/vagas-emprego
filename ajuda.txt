@@ -1,0 +1,6 @@
+Menu:
+   Cadastros->
+      Empresas
+      Vagas
+   Buscas ->
+      Vagas
